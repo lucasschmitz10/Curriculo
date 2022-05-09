@@ -1,0 +1,120 @@
+.tudo{
+    width: 60%;
+    margin: 0 auto ;
+    padding: 30px 30px 30px;
+    border: solid 1px #000;
+}
+
+.linha{
+    clear: both;
+}
+
+h1{
+    background-color: rgb(150, 0, 0);
+    border-radius: 15px;
+    text-align: center;
+    padding-top: 5px;
+
+    color: white;
+}
+img{
+    max-width: 190px;
+    border-radius: 50%;
+    
+}
+#foto{
+    width: 30%;
+    float: left;
+    text-align: center;
+}
+#dados{
+    width: 70%;
+    float: left;
+    font-size: 20px;
+    padding-top: 50px;
+}
+.fontedados{
+    color: rgb(150, 0, 0);
+    font-weight: bolder;
+}
+h2{
+    color: rgb(150, 0, 0);
+    margin-top: 30px;
+    margin-bottom: 0px;
+}
+hr{
+    border-color: rgb(150, 0, 0);
+}
+h4{
+    margin-top: 0px;
+}
+p{
+    margin-top: 0px;
+}
+#coluna1{
+    float: left;
+    width: 45%;
+    padding-right: 20px;
+}
+#coluna2{
+    float: left;
+    width: 1px;
+    height: 400px;
+    background-color: rgb(5, 5, 5);
+}
+#coluna3{
+    float: left;
+    width: 45%;
+    padding-left: 20px;
+}
+h3{
+    color: rgb(150, 0, 0);
+    margin-bottom: 0px;
+}
+.habilidade{
+    clear: both;
+}
+.titulohab{
+    float: left;
+}
+.circulo{
+    width: 12px;
+    height: 10px;
+    background-color: rgb(150, 0, 0);
+    float: right;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+.btn-insta{
+    float: right ;
+    margin-top: 0px;
+    
+   background-color: white;
+    border: none;
+}
+
+#insta{
+   width: 40px;
+   
+   
+   
+}
+.btn-face{
+    
+    
+    float: right;
+    background-color: white;
+    border: none;
+}
+#face{
+    width: 40px;
+}
+.btn-linke{
+    float: right ;
+    margin-left: %;
+    background-color: white;
+    border: none;
+}
+#linke{
+    width: 40px;
+}
